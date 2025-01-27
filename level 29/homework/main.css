@@ -1,0 +1,45 @@
+#p1{
+    color: aqua;
+}
+#p2{
+    color: beige;
+}
+#p3{
+    color: red;
+}#p4{
+    color: black;
+}
+#p5{
+    color: green;
+}
+
+.info1{
+    background-color: black;
+    color: brown;
+}
+.info3{
+    background-color: brown;
+}
+#info2{
+    background-color: blue;
+}
+#div1{
+    background-color: rgba(0, 255, 255, 0.235);
+    color: rgb(123, 123, 26);
+}
+#div2{
+    background-color: rgba(0, 0, 255, 0.237);
+    color: rgb(255, 127, 127);
+}
+#div3{
+    background-color: rgb(139, 115, 129);
+    color: blanchedalmond;
+}
+#div4{
+    background-color: rgba(0, 0, 0, 0.961);
+    color: rgb(151, 42, 165);
+}
+#div5{
+    background-color: rgb(30, 207, 210);
+    color: rgba(0, 128, 0, 0.301);
+}
