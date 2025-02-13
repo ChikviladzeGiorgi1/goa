@@ -1,0 +1,9 @@
+table{
+    border: 5px solid #27a81e;
+    width: 60%;
+    height: 60%;
+    border-collapse: collapse;
+}
+body{
+    height: 100vh;
+}
