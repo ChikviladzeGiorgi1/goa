@@ -1,0 +1,56 @@
+input {
+    border: 2px solid red;
+    padding: 10px;
+    background-color: aqua;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+button {
+    background-color: antiquewhite;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+input:focus {
+    border-color: brown;
+    background-color: aqua;
+    outline: none;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    padding-left: 20px;
+
+}
+
+div {
+    padding: 20px;
+}
+
+
+.box {
+    padding: 10px 20px, 30px 40px;
+}
+
+.border-box {
+    border: 2px solid green;
+}
+
+.rounded-box{
+    border-radius:15px; ;
+    border: 2px solid blue;
+}
+li{
+    margin-bottom: 10px;
+}

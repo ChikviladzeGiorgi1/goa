@@ -1,0 +1,10 @@
+#first{
+    width: 800px;
+    height: 160px;
+    border: 5px;
+}
+
+#content{
+    padding: 50px;
+    margin: 50px;
+}
