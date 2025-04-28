@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.header, .footer {
+    background-color: #00cccc;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.container {
+    display: flex;
+    flex: 1;
+}
+.menu {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 15px;
+    width: 20%;
+}
+.content {
+    background-color: #ffcc00;
+    color: white;
+    padding: 15px;
+    width: 80%;
+}

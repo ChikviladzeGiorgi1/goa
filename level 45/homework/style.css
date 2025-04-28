@@ -1,0 +1,25 @@
+.conteiner{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+.item{
+    flex: 1;
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000;
+}
+
+.special-item{
+    flex: 2;
+    align-self: flex-end;
+    background-color: lightcoral;
+}
