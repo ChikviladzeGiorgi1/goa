@@ -1,8 +1,0 @@
-tbody tr:nth-child(even){
-color: rgb(19, 163, 120);
-}
-
-tbody tr:nth-last-child(1){
-    background-color:gold;
-    }
-    
