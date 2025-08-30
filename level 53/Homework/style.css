@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;1,700&family=Roboto:wght@100;400;700&family=DM+Serif+Display:ital@0;1&family=Pacifico&family=Orbitron:wght@400;700&display=swap');
+body{
+    background-color: gray;
+}
+.cxrili {
+    background-color: aquamarine;
+    color: orange;
+}
+table, th, td {
+  border: 1px solid black;   
+  border-collapse: collapse; 
+  padding: 8px;
+  margin: 20px auto;
+}
+.tr1 {
+    font-family: "Noto Serif", serif;
+    font-weight: 200;
+}
+
+.tr2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.tr3 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 700;
+}
+
+.tr4 {
+    font-family: "Pacifico", cursive;
+    font-weight: 400; 
+}
+
+/* ცხრილი */
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px;
+}
+
+table td {
+    padding: 10px;
+}
+
+/* nth-child-ისთვის სხვადასხვა family და weight */
+table tr:nth-child(1) {
+    font-family: "Noto Serif", serif;
+    font-weight: 200;
+}
+
+table tr:nth-child(2) {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+table tr:nth-child(3) {
+    font-family: "DM Serif Display", serif;
+    font-weight: 700;
+}
+
+table tr:nth-child(4) {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+}
+

@@ -1,0 +1,15 @@
+.d1{
+    width: 1000px;
+    height: 600px;
+    margin: 50px;
+    color: black;
+    background-color: purple;
+}
+
+.d2{
+    width: 600px;
+    height: 250px;
+    margin: 20px;
+    color: blue;
+    background-color: aqua;
+}

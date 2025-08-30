@@ -1,0 +1,13 @@
+.a{
+    display: block;
+    background-color:blue ;
+}
+.b{
+    display: inline;
+    background-color: brown;
+}
+
+.c{
+    display: inline-block;
+    background-color: aqua;
+}
